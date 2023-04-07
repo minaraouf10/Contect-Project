@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1621045355 source:d:\code blocks\contect_project\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<fstream>
+
